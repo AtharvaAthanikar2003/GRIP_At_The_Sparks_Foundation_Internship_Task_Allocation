@@ -1,5 +1,5 @@
 # GRIP_At_The_Sparks_Foundation_Internship_Task_Allocation
-1)Task-1:- Prediction using Supervised ML.
+1)Task-1:- Prediction using Supervised Machine Learning.
   
   Task Details:
   Predict the percentage of an student based on the no. of study hours.
@@ -8,7 +8,7 @@
   Problem Statement:
   What will be predicted score if a student studies for 9.25 hrs/day?
   
-2)Task-2:- Prediction using Unsupervised Machine Learning
+2)Task-2:- Prediction using Unsupervised Machine Learning.
   
   Task Details:
   Given 'Iris' dataset, predict the optimum number of clusters and respresent it visually.  
